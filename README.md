@@ -1,4 +1,4 @@
-#A curation of resources for Web Developers
+# A curation of resources for Web Developers
 
 ## Regular Visits
 * [Web design weekly](http://web-design-weekly.com/)
@@ -169,6 +169,7 @@
 * [Fontelleo - icon font generator](http://fontello.com/)
 
 ## Fonts
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 * [Typ.io - Fonts that go together](http://www.typ.io/)
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 * [Google web fonts typography](http://femmebot.github.io/google-type/)
